@@ -1,0 +1,70 @@
+/* 
+    Created on : 11/02/2015, 15:38:17
+    Author     : rafael
+*/
+
+select {
+    margin-bottom: 15px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+img {
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.button-search {
+    background: url('../image/search.png') center no-repeat;
+    padding: 12px;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+td {
+    padding-right: 10px;
+}
+
+.container {
+	height: 13%;
+}
+
+#cabecalho {
+	height: 30%;
+	margin-right: 20%;
+	width: 100%;
+}
+
+#cabecalho-esquerdo {
+	height: 20%;
+	margin-right: 45%;
+        position: fixed;
+}
+
+#cabecalho-direito {
+	height: 20%;
+	margin-left: 56%;
+}
+
+#mapa-legenda{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+#coluna_esquerdo {
+	/*width: 160px;*/
+	/*margin-right: -160px;*/
+	margin-top: -47%;
+	padding: 16px 0;
+	vertical-align: top;
+	float: left;
+}
